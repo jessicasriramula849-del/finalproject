@@ -2,6 +2,8 @@
 Leaf Disease Detection Model
 
 Brief summary about my project:
+
 Plant diseases significantly reduce agricultural productivity and crop quality worldwide. Farmers often struggle to identify diseases accurately, especially during early stages. The goal and aim of this project is to build an AI system capable of detecting plant diseases from leaf images, classifying the disease type, generating treatment recommendations using a hugging face large language model and providing farmers with actionable insights through a simple streamlit web application. This project is useful because it can help farmers to identify diseases before they spread extensively(early disease detection), enable timely intervention for farmers to protect crop yield(reduced crop loss), assist farmers with AI-powered diagnosis(smart farming), provide farmers with disease specific recommendations automatically(agricultural advisory systems), for scalable plant monitoring(to integrate into mobile apps, drones etc), to provide instant diagnosis without requiring agricultural specialists(reduced dependency on experts), to support healthy crop production(improved food security), to optimize pesticide and treatment usage(precision agriculture), to educate farmers about disease symptoms and remedies(farmer education), to serve as a foundation for advanced agritech solutions(ai-based agriculture platform).
+
 
 For this project I have built a simple streamlit application which detects leaf disease. To find out more about this project, please see attached my project report.
